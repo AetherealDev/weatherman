@@ -2,7 +2,7 @@
 simple weather app that uses OpenWeatherAPI
 
 # Screenshot
-![Website Screenshot](http://url/to/img.png)
+![Website Screenshot](image.png)
 
 
 # Powered By
