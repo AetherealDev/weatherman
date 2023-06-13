@@ -7,7 +7,7 @@ simple weather app that uses OpenWeatherAPI
 
 # Powered By
 - [OpenWeatherMap](https://openweathermap.org/)
-- [Bootstrap]
+- [Bootstrap](https://getbootstrap.com/)
 
 # License
 This repo is licesned by the [MIT](LICENSE) License.
